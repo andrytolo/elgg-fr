@@ -1,0 +1,63 @@
+<?php
+
+// Generate By translationbrowser. 
+
+$french = array( 
+	 'pages'  =>  "Pages" , 
+	 'pages:yours'  =>  "Vos pages" , 
+	 'pages:user'  =>  "Accueil des pages" , 
+	 'pages:group'  =>  "Les pages de %s" , 
+	 'pages:all'  =>  "Toutes les pages du site" , 
+	 'pages:new'  =>  "Nouvelle page" , 
+	 'pages:groupprofile'  =>  "Les pages du groupe" , 
+	 'pages:edit'  =>  "Editer cette page" , 
+	 'pages:delete'  =>  "Supprimer cette page" , 
+	 'pages:history'  =>  "Historique de la page" , 
+	 'pages:view'  =>  "Voir la page" , 
+	 'pages:welcome'  =>  "Modifier le message d'accueil" , 
+	 'pages:welcomeerror'  =>  "Il y a eu un problème en sauvegardant votre message d'accueil" , 
+	 'pages:welcomeposted'  =>  "Votre message d'accueil a été mis en ligne." , 
+	 'pages:navigation'  =>  "Navigation" , 
+	 'pages:via'  =>  "via les pages" , 
+	 'item:object:page_top'  =>  "Page de niveau supérieur" , 
+	 'item:object:page'  =>  "Pages" , 
+	 'item:object:pages_welcome'  =>  "Les blocs de bienvenue des pages" , 
+	 'pages:nogroup'  =>  "Ce groupe n'a pas encore de pages" , 
+	 'pages:more'  =>  "Plus de pages" , 
+	 'pages:river:annotate'  =>  "un commentaire sur cette page" , 
+	 'pages:river:created'  =>  "%s a écrit" , 
+	 'pages:river:updated'  =>  "%s mis à jour" , 
+	 'pages:river:posted'  =>  "% posté" , 
+	 'pages:river:create'  =>  "une nouvelle page intitulée" , 
+	 'pages:river:update'  =>  "une page intitulée" , 
+	 'page:river:annotate'  =>  "un commentaire sur cette page" , 
+	 'page_top:river:annotate'  =>  "un commentaire sur cette page" , 
+	 'pages:title'  =>  "Le titre des pages" , 
+	 'pages:description'  =>  "Votre contenu de page" , 
+	 'pages:tags'  =>  "Tags" , 
+	 'pages:access_id'  =>  "Accès" , 
+	 'pages:write_access_id'  =>  "Accès de modification" , 
+	 'pages:noaccess'  =>  "Pas d'accès à cette page" , 
+	 'pages:cantedit'  =>  "Vous ne pouvez pas modifier cette page" , 
+	 'pages:saved'  =>  "Pages auvegardées" , 
+	 'pages:notsaved'  =>  "La page ne peut pas être sauvegardée" , 
+	 'pages:notitle'  =>  "Vous devez renseigner un titre pour la page." , 
+	 'pages:delete:success'  =>  "Votre page a correctement été supprimée." , 
+	 'pages:delete:failure'  =>  "Votre page n'a pas pu être supprimée." , 
+	 'pages:strapline'  =>  "Dernière mise à jour le %s par %s" , 
+	 'pages:revision'  =>  "Révision créée le %s par %s" , 
+	 'pages:num'  =>  "Nombre de page à afficher" , 
+	 'pages:widget:description'  =>  "Ceci est une liste de vos pages" , 
+	 'pages:label:view'  =>  "Voir la page" , 
+	 'pages:label:edit'  =>  "Modifier cette page" , 
+	 'pages:label:history'  =>  "Historique de la page" , 
+	 'pages:sidebar:this'  =>  "Cette page" , 
+	 'pages:sidebar:children'  =>  "Page fille" , 
+	 'pages:sidebar:parent'  =>  "Parente" , 
+	 'pages:newchild'  =>  "Créer une nouvelle page fille" , 
+	 'pages:backtoparent'  =>  "Retour à '%s'"
+); 
+
+add_translation('fr', $french); 
+
+?>
